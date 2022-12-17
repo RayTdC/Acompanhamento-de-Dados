@@ -10,7 +10,7 @@ banco de dados que vai armazenar seus cursos, turmas e alunos.
 
 ![Diagrama Modelagem de Dados](https://user-images.githubusercontent.com/112362301/208192321-f2f84873-7de1-4e64-baab-b52a4a4f60f2.png)
 <br>
- Modelo de Modelagem de Dados no Workbench.
+ Modelo para Modelagem de Dados no Workbench.
  <br>
  <hr>
  <h2> Questionamentos respondidos:</h2>
