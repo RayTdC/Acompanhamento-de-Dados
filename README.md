@@ -44,8 +44,13 @@ De uma pra muitas, de muitas pra muitas.
 ## Ferramentas utilizadas:
 
 </div>
+<br>
+<div align='center'>
 
+ <li> MySQL Workbench. </li>
+ <li> Github. </li>
 
+</div>
  <div style="display: inline_block" align = "center"><br>
 
   <img align="center" alt="Mysql" height="40" width="40" src="https://e7.pngegg.com/pngimages/747/798/png-clipart-mysql-mysql.png" />
