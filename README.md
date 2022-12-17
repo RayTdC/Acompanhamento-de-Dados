@@ -29,14 +29,14 @@ Sim, foram acrescentadas mais 2 entidades, sendo elas:
 <h3> Quais são os principais campos e tipos? </h3>
 
 ```sh
-Os principais campos são o ID de cada entidade, ou seja, as chaves primárias. Esse campos, em sua totalidade, são INT, pois precisam ser incrementados, como por exemplo, salário, preço e quantidade.
+Os principais campos são o ID de cada entidade, ou seja, as chaves primárias. Esse campos, em sua totalidade, são INT, pois precisam ser incrementados, como por exemplo a quantidade.
 
 ```
 
 <h3> Como essas entidades estão relacionadas? </h3>
 
 ```sh
-De uma pra muitas, de muitas pra muitas:
+De uma pra muitas, de muitas pra muitas.
 
 ```
 <div align='center'>
@@ -48,7 +48,7 @@ De uma pra muitas, de muitas pra muitas:
 
  <div style="display: inline_block" align = "center"><br>
 
-  <img align="center" alt="MIRO" height="40" width="40" src="https://e7.pngegg.com/pngimages/747/798/png-clipart-mysql-mysql.png" />
-  <img align="center" alt="Bruna-GitHub" height="40" width="40" src="https://icones.pro/wp-content/uploads/2021/06/symbole-github-violet.png" />
+  <img align="center" alt="Mysql" height="40" width="40" src="https://e7.pngegg.com/pngimages/747/798/png-clipart-mysql-mysql.png" />
+  <img align="center" alt="Github" height="40" width="40" src="https://icones.pro/wp-content/uploads/2021/06/symbole-github-violet.png" />
         
 </div>
