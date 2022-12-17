@@ -48,7 +48,7 @@ De uma pra muitas, de muitas pra muitas.
 <div align='center'>
 
  <li> MySQL Workbench. </li>
- <li> Github. </li>
+ <li> GitHub. </li>
 
 </div>
  <div style="display: inline_block" align = "center"><br>
